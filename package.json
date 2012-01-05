@@ -1,0 +1,9 @@
+{
+    "name": "tumblr-api-client"
+  , "version": "0.0.1"
+  , "private": false 
+  , "dependencies": {
+    "oauth" : "git://github.com/ciaranj/node-oauth.git"
+  }
+  , "main": "./index.js"
+}
